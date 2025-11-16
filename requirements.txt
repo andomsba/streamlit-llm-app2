@@ -21,7 +21,6 @@ pyarrow==22.0.0
 pydeck==0.9.1
 Pygments==2.19.2
 python-dateutil==2.9.0.post0
-python-dotenv==1.2.1
 pytz==2025.2
 referencing==0.37.0
 requests==2.32.5
@@ -36,3 +35,9 @@ typing_extensions==4.15.0
 tzdata==2025.2
 urllib3==2.5.0
 watchdog==6.0.0
+streamlit==1.41.1
+langchain==0.3.0
+langchain-openai==1.0.3
+langchain-core==1.0.5
+openai==2.8.0
+python-dotenv==1.2.1
