@@ -1,0 +1,29 @@
+# 環境変数ファイル（APIキーを含む）
+.env
+
+# Python仮想環境
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDEの設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS固有
+.DS_Store
+Thumbs.db
+
+# Streamlitキャッシュ
+.streamlit/
